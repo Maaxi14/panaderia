@@ -1,6 +1,6 @@
 # Enlaces de la panadería
 
-[DAZN LaLiga 1080 MultiAudio 🇪🇸](acestream://1960a9be8ae9e8c755330218eac4c5805466290a)
+<a href='acestream://1960a9be8ae9e8c755330218eac4c5805466290a'>DAZN LaLiga 1080 MultiAudio 🇪🇸</a>
 
 DAZN LaLiga 1080 MultiAudio 🇪🇸
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
