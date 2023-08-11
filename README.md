@@ -57,11 +57,13 @@ acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 LALIGA TV BAR 1080 🇪🇸
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 
+LALIGA TV BAR 1080 🇪🇸
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 LALIGA TV BAR 720 🇪🇸
 acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 
+LALIGA TV BAR 720 🇪🇸
 acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
 
 M. LaLiga 1080 MultiAudio 🇪🇸
