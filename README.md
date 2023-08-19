@@ -92,3 +92,21 @@ acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
 
 Movistar LALIGA 6 1080 🇪🇸
 acestream://c896d37778f9e43549a788fc22206a655895b51b
+
+DAZN 1 1080 🇪🇸
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+
+DAZN 1 720 🇪🇸
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+
+DAZN 2 1080 🇪🇸
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+
+DAZN 2 720 🇪🇸
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+
+DAZN 3 1080 🇪🇸
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+
+DAZN 4 1080 🇪🇸
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd 
