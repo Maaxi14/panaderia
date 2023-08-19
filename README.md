@@ -110,3 +110,66 @@ acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 
 DAZN 4 1080 🇪🇸
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd 
+
+#0 🇪🇸
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+
+Gol Play TV 1080 🇪🇸
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
+
+M.L. Campeones 1080 🇪🇸 MultiAudio
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+
+M.L. Campeones 720 🇪🇸
+acestream://90beb42e9e276854348bc91a9ff3c3e46c617495
+
+M.L.Campeones 2 1080 🇪🇸
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+
+M.L.Campeones 2 720 🇪🇸
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+
+#Vamos 1080 🇪🇸
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+
+#Vamos 720 🇪🇸
+acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746
+
+M. Deportes 1080 🇪🇸
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+
+M. Deportes 1080 🇪🇸
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+
+M. Deportes 720 🇪🇸
+acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+
+M. Deportes 2 1080 🇪🇸
+acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+
+M. Deportes 2 1080 🇪🇸
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+
+M. Deportes 3 1080 🇪🇸
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+
+M. Deportes 4 1080 🇪🇸
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+
+M. Deportes 5 1080 🇪🇸
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+
+M. Deportes 6 720 🇪🇸
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+
+M. deportes 7 1080 🇪🇸
+acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
+
+DZAN F1 1080 🇪🇸
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+
+DZAN F1 1080 🇪🇸
+acestream://5789ca155323664edd293b848606688edf803f4d
+
+DZAN F1 720 🇪🇸
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
